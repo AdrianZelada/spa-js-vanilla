@@ -3,7 +3,7 @@ const Header = ()=>{
         <div class="header-main">
             <div class="header-logo">
                 <h1>
-                    <a href="/">Home</a>
+                    <a href="/spa-js-vanilla/">Home</a>
 
                 </h1>
             </div>
